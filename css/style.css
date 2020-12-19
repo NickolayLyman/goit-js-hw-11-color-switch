@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+.start-btn {
+    width: 200px;
+    padding: 5px 10px;
+    margin-right: 40px;
+    text-align: center;
+    background-color: #00FF00;
+    color: #000;
+    border-radius: 10px;
+    border: none;
+    font-weight: 700;
+    font-size: 20px;
+}
+.stop-btn {
+    width: 200px;
+    padding: 5px 10px;
+    text-align: center;
+    background-color:#DC143C;
+    color: #000;
+    border-radius: 10px;
+    border: none;
+    font-weight: 700;
+    font-size: 20px;
+}
